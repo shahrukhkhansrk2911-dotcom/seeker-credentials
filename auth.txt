@@ -1,2 +1,3 @@
 # Seeker admin credentials - one per line
 USER:admin:8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918:
+USER:fc_balochistan:8917dd8504f1ff5662397e149d77b151df712a37fbadabccf072f4e4366a3f0a:2027-03-01
